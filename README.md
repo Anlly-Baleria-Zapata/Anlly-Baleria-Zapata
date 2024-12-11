@@ -4,8 +4,8 @@
 ### 🌟 Sobre mí  
 - 🎓 Tecnóloga con experiencia en proyectos reales como pasante en SKG Tecnología.  
 - 💻 Apasionada por crear soluciones web eficientes y escalables.
-- 💻 Trabajando en proyectos como desarrolladora web independiente. 
-- 🚀 Resiliente, autodidacta y enfocada en la mejora continua.  
+- 🚀 Resiliente, autodidacta y enfocada en la mejora continua.
+- **💻 Trabajando en proyectos como Tecnóloga en Análisis y Desarrollo de Software independiente 🚀, creando 🌐 soluciones web completas que combinan diseño front-end y lógica back-end.**
 
 ### 🛠️ Habilidades  
 - **Lenguajes:** HTML, CSS, JavaScript, Java, PHP  

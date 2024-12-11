@@ -8,7 +8,7 @@
 - **💻 Trabajando en proyectos como Tecnóloga en Análisis y Desarrollo de Software independiente 🚀, creando 🌐 soluciones web completas que combinan diseño front-end y lógica back-end.**
 
 ### 🛠️ Habilidades  
-- **Lenguajes:** HTML, CSS, JavaScript, Java, PHP  
+- **Lenguajes y Tecnologías:** HTML, CSS, JavaScript, Java, PHP  
 - **Frameworks/Librerías:** Angular, React 
 - **Herramientas:** Git, MySQL  
 

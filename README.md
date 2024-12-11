@@ -20,7 +20,7 @@
 - Reorganizando
 
 ### 🌐 Encuéntrame en  
-- LinkedIn: 
+- LinkedIn: www.linkedin.com/in/anlly-baleria-zapata-arcila-827948311
 - Correo Electrónico: anllybaleriazapata@gmail.com
 
 ---

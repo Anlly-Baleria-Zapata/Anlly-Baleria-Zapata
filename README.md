@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Anlly Baleria Zapata  
+**Tecnóloga en Análisis y Desarrollo de Software**  
 
-<!--
-**Anlly-Baleria-Zapata/Anlly-Baleria-Zapata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 Sobre mí  
+- 🎓 Tecnóloga con experiencia en proyectos reales como pasante en SKG Tecnología.  
+- 💻 Apasionada por crear soluciones web eficientes y escalables.
+- 💻 Trabajando en proyectos como desarrolladora web independiente. 
+- 🚀 Resiliente, autodidacta y enfocada en la mejora continua.  
 
-Here are some ideas to get you started:
+### 🛠️ Habilidades  
+- **Lenguajes:** HTML, CSS, JavaScript, Java, PHP  
+- **Frameworks/Librerías:** Angular, React 
+- **Herramientas:** Git, MySQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Actualmente aprendiendo  
+- TypeScript  
+- Talwing
+
+### 📂 Proyectos destacados  
+- Reorganizando
+
+### 🌐 Encuéntrame en  
+- LinkedIn: 
+- Correo Electrónico: anllybaleriazapata@gmail.com
+
+---
+¡Gracias por visitar mi perfil! 🌟

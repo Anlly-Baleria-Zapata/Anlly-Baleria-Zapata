@@ -17,7 +17,8 @@
 - Talwing
 
 ### 📂 Proyectos destacados  
-- Reorganizando
+- JARD SOFTWARE: https://github.com/Anlly-Baleria-Zapata/Jard-software-1 
+Este proyecto se trata de desarrollar e implementar un software sistematizado para la gestión del inventario de equipos tecnológicos (computadores), permitiendo hacer un seguimiento desde su adquisición hasta su depreciación. Su objetivo principal es mejorar la organización en los procesos actuales dentro de la empresa.
 
 ### 🌐 Encuéntrame en  
 - LinkedIn: www.linkedin.com/in/anlly-baleria-zapata-arcila-827948311
